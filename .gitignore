@@ -1,6 +1,7 @@
 dataset/
 Pytorch-UNet-Aerial_forest_JJ/
 Pytorch-UNet-Aerial_forest_JJ_satelite/
+*.html
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
